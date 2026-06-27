@@ -25,13 +25,13 @@
      inkscape:document-units="mm"
      inkscape:zoom="8.0000001"
      inkscape:cx="42.8125"
-     inkscape:cy="568.3125"
+     inkscape:cy="528.3125"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-8-57-9-6-8-6-9" />
+     inkscape:current-layer="layer1-8-57-9-6-8-1-8-9-3-6-9-3-6-0" />
   <defs
      id="defs1">
     <rect
@@ -1462,7 +1462,7 @@
   <g
      id="layer11-83-2"
      inkscape:label="Splat"
-     style="display:inline"
+     style="display:none"
      transform="translate(-5.0247916,-1.2830548)">
     <g
        id="layer3-5-1-8-6-1-5-5"
@@ -2881,7 +2881,7 @@
   <g
      id="layer11-8-9"
      inkscape:label="Ability2"
-     style="display:none"
+     style="display:inline"
      transform="translate(4.9538808e-4,-1.241245e-4)">
     <g
        id="layer3-5-1-8-6-3-0-62-6-1-2-6-1"
@@ -3076,51 +3076,51 @@
       </g>
     </g>
     <g
-       id="layer3-5-1-8-6-3-0-62-6-1-2-6-6-4"
+       id="layer3-5-1-8-6-3-0-62-6-1-2-6-6-3"
        inkscape:label="Ability2Frame8"
-       transform="translate(-0.73752171,86.112302)"
+       transform="translate(-0.73775087,86.111752)"
        style="display:inline">
       <g
          inkscape:groupmode="layer"
-         id="layer7-2-3-8-1-3-2-1-8-3-4-1-3-1"
+         id="layer7-2-3-8-1-3-2-1-8-3-4-1-3-5"
          inkscape:label="RLeg">
         <path
            style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            d="m 27.909796,61.086984 3.278214,9.187512 2.899081,9.733157 2.641856,2.090578"
-           id="path6-7-8-2-3-4-4-4-5-8-8-8-6-2"
+           id="path6-7-8-2-3-4-4-4-5-8-8-8-6-1"
            sodipodi:nodetypes="cccc" />
       </g>
       <g
          inkscape:groupmode="layer"
-         id="layer6-6-9-4-8-1-8-6-7-7-6-4-1-0"
+         id="layer6-6-9-4-8-1-8-6-7-7-6-4-1-2"
          inkscape:label="LLeg">
         <path
            style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.5875;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
            d="m 21.245126,60.730309 c 0,0 1.261492,6.796711 0.524508,10.256336 -0.736984,3.459625 -3.227617,10.224794 -3.227617,10.224794 l 1.275329,1.342426"
-           id="path5-1-3-5-9-1-6-2-6-4-5-9-5-0"
+           id="path5-1-3-5-9-1-6-2-6-4-5-9-5-2"
            sodipodi:nodetypes="czcc" />
       </g>
       <g
          inkscape:groupmode="layer"
-         id="layer2-4-4-5-3-3-5-91-1-2-0-6-4-1"
+         id="layer2-4-4-5-3-3-5-91-1-2-0-6-4-2"
          inkscape:label="Body"
          transform="translate(0.09354433,5.4255714)">
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           d="m 22.487213,42.006579 4.225626,-0.135384 c 0,0 1.136587,5.527955 1.116805,8.175826 -0.01978,2.647872 -0.163636,4.943871 -0.163636,4.943871 l -6.43145,-0.185191 c 0,0 0.409823,-2.855978 0.213264,-5.495043 C 21.251271,46.671592 18.75902,43.76007 18.75902,43.76007 Z"
-           id="path2-2-4-1-4-8-0-5-8-7-9-3-2-4"
+           d="m 21.991119,42.171944 3.894897,-1.061426 c 0,0 1.897264,4.734205 1.877482,7.382076 -0.01978,2.647872 -0.09749,6.498298 -0.09749,6.498298 l -6.43145,-0.185191 c 0,0 0.409823,-2.855978 0.213264,-5.495043 -0.196551,-2.639066 -3.019531,-4.09538 -3.019531,-4.09538 z"
+           id="path2-2-4-1-4-8-0-5-8-7-9-3-2-6"
            sodipodi:nodetypes="cczcczcc" />
       </g>
       <g
          inkscape:label="Head"
          inkscape:groupmode="layer"
-         id="layer1-3-6-7-4-7-9-0-9-7-0-7-0-6"
-         transform="translate(-0.70158251,5.5191157)">
+         id="layer1-3-6-7-4-7-9-0-9-7-0-7-0-4"
+         transform="translate(-1.1632265,6.8146339)">
         <circle
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
            id="path1-2-0-1-6-4-0-3-2-9-0-8-9-0"
-           cx="20.195776"
-           cy="37.202896"
+           cx="20.102232"
+           cy="36.969036"
            r="5" />
       </g>
       <g
@@ -3130,43 +3130,43 @@
          transform="translate(6.194483,53.436167)">
         <circle
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8-1-1-6-5-6-7-6-4-9-1-1-2-3-1"
+           id="path1-8-1-1-6-5-6-7-6-4-9-1-1-2-3-0"
            cx="15.787683"
            cy="1.9023114"
            r="2" />
       </g>
       <g
          inkscape:groupmode="layer"
-         id="layer4-6-1-2-6-9-1-9-5-9-3-9-7-7"
+         id="layer4-6-1-2-6-9-1-9-5-9-3-9-7-3"
          inkscape:label="LArm"
          transform="translate(3.928862,9.4479778)">
         <path
            style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           d="m 14.41225,39.973584 c 0,0 -3.401581,4.425475 -2.173004,6.261736 0.658149,0.983685 3.544798,0.20387 3.544798,0.20387"
-           id="path3-8-84-7-1-3-3-2-4-8-8-1-2-7"
+           d="m 14.379177,41.263428 c 0,0 -3.088314,3.43696 -2.139931,4.971892 0.622108,1.006865 3.544798,0.20387 3.544798,0.20387"
+           id="path3-8-84-7-1-3-3-2-4-8-8-1-2-4"
            sodipodi:nodetypes="cac" />
       </g>
       <g
          inkscape:label="RHand"
          inkscape:groupmode="layer"
-         id="layer1-8-57-9-6-8-1-8-9-3-6-9-3-6-7"
-         transform="translate(47.638872,33.256028)"
+         id="layer1-8-57-9-6-8-1-8-9-3-6-9-3-6-0"
+         transform="translate(49.088809,34.425332)"
          style="fill:#00ffd2;fill-opacity:0">
         <circle
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8-6-6-1-4-9-9-34-1-5-3-5-0-7"
-           cx="-22.487972"
-           cy="-4.2727609"
+           id="path1-8-6-6-1-4-9-9-34-1-5-3-5-0-0"
+           cx="-29.135628"
+           cy="-3.1152089"
            r="2" />
       </g>
       <g
          inkscape:groupmode="layer"
-         id="layer5-1-3-4-9-8-3-4-2-0-4-9-1-3"
+         id="layer5-1-3-4-9-8-3-4-2-0-4-9-1-5"
          inkscape:label="RArm"
          transform="translate(4.0224062,9.7286108)">
         <path
            style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           d="m 22.767802,37.725422 c 0,0 0.816036,-2.952085 1.937449,-7.122307 1.121412,-4.170222 -2.250795,-10.158369 -2.250795,-10.158369"
+           d="m 21.970728,36.943021 c 0,0 1.596491,-3.815304 1.725716,-7.026412 0.129224,-3.211107 -5.688028,-8.317635 -5.688028,-8.317635"
            id="path4-8-78-2-6-6-4-0-3-2-4-8-6-3"
            sodipodi:nodetypes="czc" />
       </g>
@@ -3203,7 +3203,7 @@
          transform="translate(0.09354433,5.4255714)">
         <path
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           d="m 22.487213,42.006579 4.225626,-0.135384 c 0,0 1.136587,5.527955 1.116805,8.175826 -0.01978,2.647872 -0.163636,4.943871 -0.163636,4.943871 l -6.43145,-0.185191 c 0,0 0.409823,-2.855978 0.213264,-5.495043 C 21.251271,46.671592 18.75902,43.76007 18.75902,43.76007 Z"
+           d="m 21.991119,42.171944 3.894897,-1.061426 c 0,0 1.897264,4.734205 1.877482,7.382076 -0.01978,2.647872 -0.09749,6.498298 -0.09749,6.498298 l -6.43145,-0.185191 c 0,0 0.409823,-2.855978 0.213264,-5.495043 -0.196551,-2.639066 -3.019531,-4.09538 -3.019531,-4.09538 z"
            id="path2-2-4-1-4-8-0-5-8-7-9-3-2"
            sodipodi:nodetypes="cczcczcc" />
       </g>
@@ -3211,7 +3211,7 @@
          inkscape:label="Head"
          inkscape:groupmode="layer"
          id="layer1-3-6-7-4-7-9-0-9-7-0-7-0"
-         transform="translate(0.09354433,5.4255714)">
+         transform="translate(-1.1632265,6.8146339)">
         <circle
            style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
            id="path1-2-0-1-6-4-0-3-2-9-0-8-9"
@@ -3238,22 +3238,9 @@
          transform="translate(3.928862,9.4479778)">
         <path
            style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           d="m 14.41225,39.973584 c 0,0 -3.401581,4.425475 -2.173004,6.261736 0.658149,0.983685 3.544798,0.20387 3.544798,0.20387"
+           d="m 14.379177,41.263428 c 0,0 -3.088314,3.43696 -2.139931,4.971892 0.622108,1.006865 3.544798,0.20387 3.544798,0.20387"
            id="path3-8-84-7-1-3-3-2-4-8-8-1-2"
            sodipodi:nodetypes="cac" />
-      </g>
-      <g
-         inkscape:label="RHand"
-         inkscape:groupmode="layer"
-         id="layer1-8-57-9-6-8-1-8-9-3-6-9-3-6"
-         transform="translate(49.088809,34.425332)"
-         style="fill:#00ffd2;fill-opacity:0">
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8-6-6-1-4-9-9-34-1-5-3-5-0"
-           cx="-22.487972"
-           cy="-4.2727609"
-           r="2" />
       </g>
       <g
          inkscape:groupmode="layer"
@@ -3262,14 +3249,26 @@
          transform="translate(4.0224062,9.7286108)">
         <path
            style="fill:none;fill-opacity:0;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           d="m 23.095207,37.538333 c 0,0 2.125657,-2.624679 3.24707,-6.794901 1.121412,-4.170222 -2.016934,-9.971281 -2.016934,-9.971281"
+           d="m 21.970728,36.943021 c 0,0 1.596491,-3.815304 1.725716,-7.026412 0.129224,-3.211107 -5.688028,-8.317635 -5.688028,-8.317635"
            id="path4-8-78-2-6-6-4-0-3-2-4-8-6"
            sodipodi:nodetypes="czc" />
+      </g>
+      <g
+         inkscape:label="RHand"
+         inkscape:groupmode="layer"
+         id="layer1-8-57-9-6-8-1-8-9-3-6-9-3-6"
+         transform="translate(49.08881,34.425332)"
+         style="display:inline;fill:#00ffd2;fill-opacity:0">
+        <path
+           id="path1-8-6-6-1-4-9-9-34-1-5-3-5-0"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-linecap:butt;stroke-linejoin:miter"
+           d="m -15.923909,14.44651 c 0,0 -1.846066,-7.6264538 -6.843314,-10.9859786 -2.215372,-1.4893387 -5.543518,-3.59534536 -6.335332,-3.88120906 -1.038936,-0.3750806 -2.033073,-1.58996174 -2.033073,-2.69453124 0,-1.1045695 1.19318,-2.0849208 2.297656,-2.0992187 2.554788,-0.033073 5.801007,1.8962278 7.313936,2.6864499 2.644348,1.3811765 5.97792,5.3755792 5.97792,5.3755792 l -4.023056,-0.9791749 c 0,0 3.107239,2.9746588 3.764153,6.4321949 0.656914,3.4575365 -0.11889,6.1458885 -0.11889,6.1458885 z"
+           sodipodi:nodetypes="cssssscczc" />
       </g>
     </g>
     <g
        id="layer3-5-1-8-6-3-0-62-6-1-2-6-8"
-       inkscape:label="Ability2Frame6"
+       inkscape:label="Ability2Frame6_Removed"
        transform="translate(-0.73703043,86.112292)"
        style="display:none">
       <g
@@ -3435,19 +3434,6 @@
            sodipodi:nodetypes="cac" />
       </g>
       <g
-         inkscape:label="RHand"
-         inkscape:groupmode="layer"
-         id="layer1-8-57-9-6-8-1-8-9-3-6-9"
-         transform="translate(49.088809,34.425332)"
-         style="fill:#00ffd2;fill-opacity:0">
-        <circle
-           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875;stroke-dasharray:none;stroke-opacity:1"
-           id="path1-8-6-6-1-4-9-9-34-1-5-3"
-           cx="-7.8482847"
-           cy="22.200285"
-           r="2" />
-      </g>
-      <g
          inkscape:groupmode="layer"
          id="layer5-1-3-4-9-8-3-4-2-0-4"
          inkscape:label="RArm"
@@ -3458,10 +3444,22 @@
            id="path4-8-78-2-6-6-4-0-3-2-4"
            sodipodi:nodetypes="czc" />
       </g>
+      <g
+         inkscape:label="RHand"
+         inkscape:groupmode="layer"
+         id="layer1-8-57-9-6-8-1-8-9-3-6-9"
+         transform="translate(49.088809,34.425331)"
+         style="display:inline;fill:#00ffd2;fill-opacity:0">
+        <path
+           id="path1-8-6-6-1-4-9-9-34-1-5-3"
+           style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.5875"
+           d="m -5.352191,22.167212 c 0.1984375,0.607968 1.03476,4.506294 0.8010478,6.769989 -0.9264059,8.973003 -2.460302,12.079668 -2.460302,12.079668 l -0.4436312,-9.437316 -1.6138586,2.200873 c 0,0 0.1261019,-5.512172 0.030025,-7.132745 -0.065371,-1.102633 -1.272396,-2.615223 -1.272396,-3.719792 0,-1.104569 1.3584515,-2.727604 2.463021,-2.727604 1.1045695,0 2.1533628,0.916876 2.496094,1.966927 z"
+           sodipodi:nodetypes="sscccssss" />
+      </g>
     </g>
     <g
        id="layer3-5-1-8-6-3-0-62-6-1"
-       inkscape:label="Ability2Frame4"
+       inkscape:label="Ability2Frame4_Removed"
        transform="translate(-0.73726475,86.111937)"
        style="display:none">
       <g
