@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="6.4675926"
-     inkscape:cx="74.911954"
-     inkscape:cy="205.40873"
+     inkscape:zoom="12.935185"
+     inkscape:cx="133.16392"
+     inkscape:cy="120.48533"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="g49"
      showguides="false"
      showgrid="true">
     <inkscape:grid
@@ -72,8 +72,29 @@
        y1="50"
        x2="50.529"
        y2="50"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(6.5395045,0,0,6.6348522,-82.721613,-226.27596)" />
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BigFadingArrow">
+    <rect
+       style="display:none;fill:#ae1919;stroke:#ae1919;stroke-width:1.058"
+       id="rect2"
+       width="228.60034"
+       height="133.41803"
+       x="15.460133"
+       y="41.078438"
+       inkscape:export-filename="BigFadingArrow.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:url(#linearGradient3);fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
+       d="M 80.766,39.118128 15.370955,105.46665 80.766,171.81517 V 138.64091 H 244.25361 V 72.292389 H 80.766 Z"
+       id="path2"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
   <g
      inkscape:label="ButtonW"
      inkscape:groupmode="layer"
@@ -560,7 +581,8 @@
   <g
      inkscape:label="ButtonSE"
      inkscape:groupmode="layer"
-     id="g38">
+     id="g38"
+     style="display:none">
     <rect
        style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
        id="rect33"
@@ -627,23 +649,123 @@
     </g>
   </g>
   <g
+     inkscape:label="ActionLeft"
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="BigFadingArrow">
+     id="g43"
+     style="display:none"
+     transform="translate(0.18409091,1.2681818)">
     <rect
-       style="display:none;fill:#ae1919;stroke:#ae1919;stroke-width:1.058"
-       id="rect2"
-       width="35.100002"
-       height="19.390907"
-       x="15.013637"
-       y="40.295456"
-       inkscape:export-filename="BigFadingArrow.png"
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
+       id="rect5"
+       width="16.712368"
+       height="16.831285"
+       x="18.014437"
+       y="24.802933"
+       transform="translate(1.7475604,-10.034254)"
+       ry="0"
+       inkscape:export-filename="actionLeft.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
-    <path
-       style="fill:url(#linearGradient3);stroke:none;stroke-width:1.058;fill-opacity:1;stroke-opacity:1"
-       d="M 25,40 15,50 25,60 V 55 H 50 V 45 H 25 Z"
-       id="path2"
-       sodipodi:nodetypes="cccccccc" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Arrow"
+       transform="translate(0.40909159,0.18408995)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.058;stroke-opacity:1"
+         d="m 25.83915,19.102426 -4.17595,3.897058 4.17595,3.897061 v -1.948529 h 8.183255 V 21.050955 H 25.83915 Z"
+         id="path2-4"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+  </g>
+  <g
+     inkscape:label="ActionUp"
+     inkscape:groupmode="layer"
+     id="g45"
+     style="display:none">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
+       id="rect44"
+       width="16.712368"
+       height="16.831285"
+       x="18.014437"
+       y="24.802933"
+       transform="translate(1.7475604,-10.034254)"
+       ry="0"
+       inkscape:export-filename="actionUp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       inkscape:groupmode="layer"
+       id="g44"
+       inkscape:label="Arrow"
+       transform="rotate(90,27.924172,23.019941)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.058;stroke-opacity:1"
+         d="m 26.02324,18.979699 -4.17595,3.897058 4.17595,3.897061 v -1.948529 h 8.183255 V 20.928228 H 26.02324 Z"
+         id="path44"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+  </g>
+  <g
+     inkscape:label="ActionRight"
+     inkscape:groupmode="layer"
+     id="g47"
+     style="display:none"
+     transform="translate(0.02045455,0.02045455)">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
+       id="rect45"
+       width="16.712368"
+       height="16.831285"
+       x="18.014437"
+       y="24.802933"
+       transform="translate(1.7475604,-10.034254)"
+       ry="0"
+       inkscape:export-filename="actionRight.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       inkscape:groupmode="layer"
+       id="g46"
+       inkscape:label="Arrow"
+       style="display:inline"
+       transform="rotate(180,28.241217,23.050623)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.058;stroke-opacity:1"
+         d="m 26.043695,19.122881 -4.17595,3.897058 4.17595,3.897061 V 24.968471 H 34.22695 V 21.07141 h -8.183255 z"
+         id="path45"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
+  </g>
+  <g
+     inkscape:label="ActionDown"
+     inkscape:groupmode="layer"
+     id="g49"
+     style="display:inline">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
+       id="rect47"
+       width="16.712368"
+       height="16.831285"
+       x="18.014437"
+       y="24.802933"
+       transform="translate(1.7475604,-10.034254)"
+       ry="0"
+       inkscape:export-filename="actionDown.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       inkscape:groupmode="layer"
+       id="g48"
+       inkscape:label="Arrow"
+       style="display:inline"
+       transform="rotate(-90,28.138945,22.94835)">
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1.058;stroke-opacity:1"
+         d="m 26.043695,19.122881 -4.17595,3.897058 4.17595,3.897061 V 24.968471 H 34.22695 V 21.07141 h -8.183255 z"
+         id="path47"
+         sodipodi:nodetypes="cccccccc" />
+    </g>
   </g>
 </svg>
