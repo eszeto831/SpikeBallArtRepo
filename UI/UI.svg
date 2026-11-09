@@ -24,15 +24,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="3.2337963"
-     inkscape:cx="123.53901"
-     inkscape:cy="234.86328"
+     inkscape:zoom="1.6168982"
+     inkscape:cx="91.842517"
+     inkscape:cy="318.20185"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g63"
+     inkscape:current-layer="g56-8"
      showguides="false"
      showgrid="true">
     <inkscape:grid
@@ -1005,6 +1005,35 @@
        inkscape:label="top" />
   </g>
   <g
+     inkscape:label="LockWhite"
+     inkscape:groupmode="layer"
+     id="g56-8"
+     style="display:inline"
+     transform="translate(-10.849378,54.70357)">
+    <rect
+       style="display:none;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1.058;stroke-opacity:1"
+       id="rect6-7"
+       width="30.729055"
+       height="30.947708"
+       x="47.252907"
+       y="-33.176777"
+       ry="0"
+       inkscape:export-filename="WhiteLock.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect56-4"
+       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.058;stroke-opacity:1"
+       inkscape:label="bottom"
+       d="m 51.833871,-19.840101 h 21.8072 v 13.7225791 h -21.8072 z" />
+    <path
+       id="rect59-2"
+       style="fill:none;fill-opacity:0;stroke:#ffffff;stroke-width:4.23333;stroke-dasharray:none;stroke-opacity:1"
+       d="m 59.0217,-29.094857 h 7.112409 c 2.037281,0 3.677403,1.640122 3.677403,3.677403 v 5.835889 c 0,2.037281 -1.640122,3.677403 -3.677403,3.677403 H 59.0217 c -2.037282,0 -3.677403,-1.640122 -3.677403,-3.677403 v -5.835889 c 0,-2.037281 1.640121,-3.677403 3.677403,-3.677403 z"
+       sodipodi:nodetypes="sssssssss"
+       inkscape:label="top" />
+  </g>
+  <g
      inkscape:label="Target"
      inkscape:groupmode="layer"
      id="g63"
@@ -1033,5 +1062,31 @@
        id="path63"
        style="display:inline;fill:#ab0000;stroke-width:0.435585"
        d="m 57.771211,55.125378 a 2.6458333,2.6458333 0 0 1 -2.645833,2.645833 2.6458333,2.6458333 0 0 1 -2.645834,-2.645833 2.6458333,2.6458333 0 0 1 2.645834,-2.645834 2.6458333,2.6458333 0 0 1 2.645833,2.645834 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Dialog"
+     transform="translate(106.69091,-45)">
+    <rect
+       style="fill:#80b472;fill-opacity:0.597911;stroke:none;stroke-width:2.64583;stroke-opacity:0.699779"
+       id="rect7"
+       width="50"
+       height="50"
+       x="50"
+       y="50"
+       inkscape:export-filename="dialogBg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#334d2c;fill-opacity:0.94999999;stroke:none;stroke-width:2.64583;stroke-opacity:0.699779"
+       id="rect7-8"
+       width="40"
+       height="40"
+       x="55"
+       y="55"
+       inkscape:export-filename="rect7-8.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
 </svg>
